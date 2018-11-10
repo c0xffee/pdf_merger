@@ -6,6 +6,7 @@ merge your pdfs in the filder into one pdf file.<br>
 想到以前玩python 的pdf library pyPDF2 時<br>
 好像有合併檔案的功能<br>
 沒想到只要這幾行程式<br>
+就輕易完成了XD<br>
 還另外加了把整個資料夾所有檔案合併的功能<br>
 
 reference : stackoverflow.com
